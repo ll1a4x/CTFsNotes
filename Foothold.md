@@ -90,7 +90,8 @@ H2 Database 1.4.199 <br />
 HP Power Manager 4.2 exploit <br />
 Applications Manager (Build No:14700) <br />
 Unreal Tournament 99 exploit <br />
-
+Exposing sensitive information on the webpage  
+BorgBackup  
 
 
 
