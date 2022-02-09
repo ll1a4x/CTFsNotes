@@ -92,7 +92,7 @@ Applications Manager (Build No:14700) <br />
 Unreal Tournament 99 exploit <br />
 Exposing sensitive information on the webpage  
 BorgBackup  
-
+Website uploading vulnerabilities
 
 
 
